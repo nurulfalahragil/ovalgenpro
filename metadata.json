@@ -1,0 +1,7 @@
+{
+  "name": "Oval Studio - AI Ad & Video Prompt Generator",
+  "description": "Generator prompt Text-to-Image dan Text-to-Video profesional untuk iklan produk komersial, storyboard, dan naskah Voice Over.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
